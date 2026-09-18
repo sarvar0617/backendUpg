@@ -1,0 +1,288 @@
+{
+  "newProducts": [
+    {
+      "id": 1,
+      "title": "Brateck LDT69-C022 Black",
+      "brand": "Brateck",
+      "price": 1110000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/dd/13/2c/dd132cbf69449eb24ac58383c5dbf04522cbc59b4c6c9dd77156f76beabebce1.png"
+    },
+    { 
+      "id": 2,
+      "title": "DarkProject ALU87 Daylight",
+      "brand": "Dark Project",
+      "price": 1175000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/2e/3d/ca/2e3dcae656853932acb8b355f2cbaadb35a8e9d33706574e6937fa9085d23a21.png"
+    },
+    {
+      "id": 3,
+      "title": "DarkProject ALU87 Midnight",
+      "brand": "Dark Project",
+      "price": 1175000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/41/f3/87/41f387606e8d5787995b7c5c37ab03fe7b9665ac9112329b9078237e0cfb5b79.png"
+    },
+    {
+      "id": 4,
+      "title": "DarkProject ALU87 Violet",
+      "brand": "Dark Project",
+      "price": 849000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/81/d4/f4/81d4f4821852c26a6471a02251c9503ba5fc4fb469d8c5979381a9cb578e608d.png"
+    },
+    {
+      "id": 5,
+      "title": "HyperX Cloud III Red Wireless",
+      "brand": "HyperX",
+      "price": 2100000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/10/3d/16/103d16da78a5530d3b5710e5e86ec06aaf77e37654a843af43d54e2718f8fe4f.png"
+    },
+    {
+      "id": 6,
+      "title": "HyperX QuadCast 2",
+      "brand": "HyperX",
+      "price": 1755000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/93/91/20/939120b096040e83e2e842de03d10f5d262a0f74df665b6f2662b1e852d99fa0.png"
+    },
+    {
+      "id": 7,
+      "title": "Red Square Alumix TKL Classic Kitsune White [RSQ-20052]",
+      "brand": "Red Square",
+      "price": 1235000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/aa/43/5a/aa435a42be013f160ccaae5efd5213933b4045d0181906abc214adb51a8db0f0.png"
+    },
+    {
+      "id": 8,
+      "title": "Thronmax Twins Studio Boom Arm S8",
+      "brand": "Thronmax",
+      "price": 783000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/e0/f6/97/e0f6974912a85e2f8d364db4031f1aa0b3776e9022fc8a5a2fbdfebcea9c71ca.png"
+    },
+    {
+      "id": 9,
+      "title": "UPGrade ASH GREY",
+      "brand": "UPG",
+      "price": 585000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/51/13/09/511309fd5c8416eec800336e74df64a5a3755f6905545594501e530aa0ed7af6.png"
+    },
+    {
+      "id": 10,
+      "title": "Victrix Pro BFG White Wireless",
+      "brand": "Playstation",
+      "price": 3212500,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/0f/eb/92/0feb92c61d2d3d6f06a65330437ccf137e7b4f7e776bde9b0f82f5abb2dc6cea.png"
+    }
+  ],
+  "bestOffers": [
+    {
+      "id": 11,
+      "title": "Asus Blue Cave AC2600",
+      "brand": "Asus",
+      "price": 913500,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/70/63/2a/70632ae60ad362f6d6a8b4b4fe86d973a75b3eaad9cd19e6533d812eb17d49bf.png"
+    },
+    {
+      "id": 12,
+      "title": "Govee H61A0 Neon LED Strip Light 3m",
+      "brand": "Govee",
+      "price": 796050,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/cd/47/5d/cd475d8716efeee9ccada2c39529fa189f7bfe8c8be2117d05b4458ece2b00fa.png"
+    },
+    {
+      "id": 13,
+      "title": "HyperX QuadCast S White",
+      "brand": "HyperX",
+      "price": 2309000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/e7/1c/47/e71c47f186b3b781c98e97d7fb97343f94ef18809992f37668ba8b34fcb74813.png"
+    },
+    {
+      "id": 14,
+      "title": "Keychron V1 Wired 84 Key",
+      "brand": "Keychron",
+      "price": 1031000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/4d/a2/f8/4da2f825627fefadd6630231e732cac03283574c08dc91e29df918bc0b7fcb81.png"
+    },
+    {
+      "id": 15,
+      "title": "Logitech Pro X Superlight 2 White Wireless",
+      "brand": "Logitech",
+      "price": 2080000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/6e/34/dc/6e34dc65d33723ea8fa9d0a1dd67e6960710a9a537705a5d2c546ae3d733b15a.png"
+    },
+    {
+      "id": 16,
+      "title": "MSI G274F 27\" 180Hz Rapid IPS",
+      "brand": "MSI",
+      "price": 2358750,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/a5/7e/e6/a57ee6ce48afa491352d4086af5f678ed43623cf669606dfb4b873e30e2e11d3.png"
+    },
+    {
+      "id": 17,
+      "title": "Pwnage Stormbreaker Wireless BLG Edition",
+      "brand": "Pwnage",
+      "price": 2048000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/f1/b4/bd/f1b4bd8e4cf95ecae5af5024e4e9a5c8d6a32853bf00b8b6f83ca1824e288151.png"
+    },
+    {
+      "id": 18,
+      "title": "Razer Barracuda X Wireless",
+      "brand": "Razer",
+      "price": 1287000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/ef/ba/6e/efba6e1e8b119bef1abe80801e77cf4498b5f7c659928795ddeb7680171e470f.png"
+    },
+    {
+      "id": 19,
+      "title": "Sony Dualsense PS5 Gamepad Volcanic Red",
+      "brand": "Sony",
+      "price": 975000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/dc/d7/d9/dcd7d93c4d90524da8f15c11967aa39e374fce9c920b33bd21d536a0622579bf.png"
+    },
+    {
+      "id": 20,
+      "title": "Стол Нежный черный L",
+      "brand": "UPG",
+      "price": 3263000,
+      "currency": "UZS",
+      "image": "https://files.ox-sys.com/cache/500x_/image/3f/91/30/3f91303a19cc90c16a21bf88d9e5817ed266e7d7e37717e41a82df09c9337558.png"
+    }
+  ],
+  "components": [
+    {
+      "id": 21,
+      "title": "Klaviatury",
+      "image": "https://files.ox-sys.com/cache/original/image/d3/23/48/d32348b36c863e6fbcec18f69f0d2274d898db0eceda1675e89fd0ed08b7db0c.png"
+    },
+    {
+      "id": 22,
+      "title": "Mishki",
+      "image": "https://files.ox-sys.com/cache/original/image/d3/dd/68/d3dd6827ae0f9d8999e0573816c14d875a57220be0a7e4d85cc5c6fba3a5c428.png"
+    },
+    {
+      "id": 23,
+      "title": "Mikrofony",
+      "image": "https://files.ox-sys.com/cache/original/image/96/07/95/96079505d678680959dc0583173ee6aec88d410293eceeac98f3d586b263bab3.png"
+    },
+    {
+      "id": 24,
+      "title": "Naushniki",
+      "image": "https://files.ox-sys.com/cache/original/image/ce/7a/d3/ce7ad3f5d18ab3247d08fcb5d54c6f0f4fcf1d2fb358cd58e7645a051f18b527.png"
+    },
+    {
+      "id": 25,
+      "title": "Monitory",
+      "image": "https://files.ox-sys.com/cache/original/image/7e/0a/e5/7e0ae5bd85f152a83a95341d111b6fe0e3b6e2153059db0eefc9e8a30c8871ca.png"
+    },
+    {
+      "id": 26,
+      "title": "Kronshteyny",
+      "image": "https://files.ox-sys.com/cache/original/image/be/17/38/be1738133cab1f5a7f60d6aedbdb67e08f5315c4c613d83e742fd3b25b9a7553.png"
+    },
+    {
+      "id": 27,
+      "title": "Kolonki",
+      "image": "https://files.ox-sys.com/cache/original/image/2e/bf/fa/2ebffa53825ced446e5868fc9f51accfb1b41c77b0ebbfb5799ef620b33d741e.png"
+    },
+    {
+      "id": 28,
+      "title": "Kovriki",
+      "image": "https://files.ox-sys.com/cache/original/image/44/d4/91/44d4917eb0aae08938709e5201034f2cf8046f9b9d3f105c0accc763d8a0dcd6.png"
+    },
+    {
+      "id": 29,
+      "title": "Ноутбуки",
+      "image": "https://files.ox-sys.com/cache/original/image/05/d6/3c/05d63cb59036e8d0b0730d1a16d5a29856cb610dcf1dfc7ea2a96db635d29655.png"
+    },
+    {
+      "id": 30,
+      "title": "Консоли",
+      "image": "https://files.ox-sys.com/cache/original/image/ab/1a/c1/ab1ac1173586ca800c5a70de0eff02f3a04a35b61caa0dd9c2c4f346569bda5b.png"
+    },
+    {
+      "id": 31,
+      "title": "Контроллеры",
+      "image": "https://files.ox-sys.com/cache/original/image/c0/35/29/c0352983c72761cab5b1253f6f5c96b98d8387b9b8366816908622fdb24da771.png"
+    },
+    {
+      "id": 32,
+      "title": "Wi-Fi",
+      "image": "https://files.ox-sys.com/cache/original/image/22/d7/fe/22d7fece745d88bb4f35247960fc5b7631c6311d1498868209da5a492bb39302.png"
+    },
+    {
+      "id": 33,
+      "title": "Корпуса",
+      "image": "https://files.ox-sys.com/cache/original/image/a3/bd/74/a3bd74921ffd933f98ead0c0c6537e6fd9477a22c5681a0328b42f73a51b08a3.png"
+    },
+    {
+      "id": 34,
+      "title": "Процессоры",
+      "image": "https://files.ox-sys.com/cache/original/image/87/7b/67/877b676d39ab4e2017e106b206e2bd9f111c10c245d5dfd4f572b4bfebd27e34.png"
+    },
+    {
+      "id": 35,
+      "title": "Видеокарты",
+      "image": "https://files.ox-sys.com/cache/original/image/7d/51/a4/7d51a49695ac0c3d6a73a61ae6da13ef76100890bb8c50504eab92ab6ef218be.png"
+    },
+    {
+      "id": 36,
+      "title": "ОЗУ",
+      "image": "https://files.ox-sys.com/cache/original/image/c9/fc/1b/c9fc1bda48ef7c72cc59a3e1b7617db9ec19eb39886eed6ae38d27f5e132ac19.png"
+    },
+    {
+      "id": 37,
+      "title": "Мат. Платы",
+      "image": "https://files.ox-sys.com/cache/original/image/6d/c5/f3/6dc5f3f542ca4e434e8f42e08fcaed60182aeeab9b882d4dd28dbbc896e01e34.png"
+    },
+    {
+      "id": 38,
+      "title": "SSD",
+      "image": "https://files.ox-sys.com/cache/original/image/d7/d8/56/d7d856db89c3388c72819c3a667fe36cc3756f0f752164a5e724e921b0f65851.png"
+    },
+    {
+      "id": 39,
+      "title": "Кулеры",
+      "image": "https://files.ox-sys.com/cache/original/image/2e/61/88/2e61881c365054706a92f6f68852978d415193f73bdacf40c461fd0689e7a10c.png"
+    },
+    {
+      "id": 40,
+      "title": "Блоки питания",
+      "image": "https://files.ox-sys.com/cache/original/image/c9/f3/74/c9f374f8d7da6441afaeae2c270912b54c037f4a017dde8e9236d733b33ba19e.png"
+    },
+    {
+      "id": 41,
+      "title": "Столы",
+      "image": "https://files.ox-sys.com/cache/original/image/6a/bd/67/6abd67393226735cb30a676d29e4d5e3d1d0940f3adddcc6a1b70b8419829fb6.png"
+    },
+    {
+      "id": 42,
+      "title": "Кресла",
+      "image": "https://files.ox-sys.com/cache/original/image/bb/07/74/bb077438d966ec1d67a3fa82b69064240bb02a3b3a2892354c3df0bee88bd874.png"
+    },
+    {
+      "id": 43,
+      "title": "Освещение",
+      "image": "https://files.ox-sys.com/cache/original/image/bc/ac/9b/bcac9bb4a74f53f66b66478841f232b1f9c649e9918c6c607866c8c4f6886a1e.png"
+    },
+    {
+      "id": 44,
+      "title": "Аксессуары",
+      "image": "https://files.ox-sys.com/cache/original/image/8f/12/fb/8f12fb229084383bafc7b4e3ae297924c67154b48170ae6b4f868b7f7d07473f.png"
+    }
+  ]
+}
