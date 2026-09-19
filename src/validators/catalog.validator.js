@@ -10,7 +10,7 @@ export const productQuerySchema = z.object({
   maxPrice: nonNegativeInt.optional(),
   sort: z.enum(["price_asc", "price_desc", "newest"]).default("newest"),
   page: z.coerce.number().int().min(1).default(1),
-  limit: z.coerce.number().int().min(1).max(100).default(12),
+  limit: z.coerce.number().int().min(1).max(1000).default(12),
 }).superRefine((query, context) => {
   if (query.minPrice !== undefined && query.maxPrice !== undefined && query.minPrice > query.maxPrice) {
     context.addIssue({
