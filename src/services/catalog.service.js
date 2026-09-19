@@ -1,9 +1,20 @@
 import { prisma } from "../lib/prisma.js";
 import { AppError } from "../utils/appError.js";
 
-const productInclude = {
-  category: true,
-  brand: true,
+const productSelect = {
+  id: true,
+  name: true,
+  slug: true,
+  sku: true,
+  description: true,
+  price: true,
+  oldPrice: true,
+  stock: true,
+  image: true,
+  isNew: true,
+  isFeatured: true,
+  category: { select: { id: true, name: true, slug: true, image: true } },
+  brand: { select: { id: true, name: true, slug: true, logo: true } },
 };
 
 const getProductWhere = ({ search, category, brand, minPrice, maxPrice }) => ({
@@ -32,7 +43,13 @@ const getProductOrderBy = (sort) => {
 
 export const getCategories = () => prisma.category.findMany({
   orderBy: { name: "asc" },
-  include: { _count: { select: { products: true } } },
+  select: {
+    id: true,
+    name: true,
+    slug: true,
+    image: true,
+    _count: { select: { products: true } },
+  },
 });
 
 export const getProducts = async (query) => {
@@ -43,7 +60,7 @@ export const getProducts = async (query) => {
   const [products, total] = await prisma.$transaction([
     prisma.product.findMany({
       where,
-      include: productInclude,
+      select: productSelect,
       orderBy: getProductOrderBy(sort),
       skip,
       take: limit,
@@ -65,7 +82,7 @@ export const getProducts = async (query) => {
 export const getProductBySlug = async (slug) => {
   const product = await prisma.product.findUnique({
     where: { slug },
-    include: productInclude,
+    select: productSelect,
   });
 
   if (!product) {
@@ -84,7 +101,7 @@ export const getProductsByCategorySlug = async (slug) => {
 
   const products = await prisma.product.findMany({
     where: { categoryId: category.id },
-    include: productInclude,
+    select: productSelect,
     orderBy: { createdAt: "desc" },
   });
 

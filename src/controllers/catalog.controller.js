@@ -8,6 +8,7 @@ import {
 import { productQuerySchema } from "../validators/catalog.validator.js";
 
 const slugSchema = z.string().trim().min(1);
+const DEFAULT_COLLECTION_LIMIT = 12;
 
 export const listCategories = async (_req, res) => {
   const categories = await getCategories();
@@ -17,7 +18,7 @@ export const listCategories = async (_req, res) => {
     data: categories,
     pagination: {
       page: 1,
-      limit: categories.length,
+      limit: DEFAULT_COLLECTION_LIMIT,
       total: categories.length,
       totalPages: categories.length > 0 ? 1 : 0,
     },
@@ -58,7 +59,7 @@ export const listCategoryProducts = async (req, res) => {
     },
     pagination: {
       page: 1,
-      limit: products.length,
+      limit: DEFAULT_COLLECTION_LIMIT,
       total: products.length,
       totalPages: products.length > 0 ? 1 : 0,
     },
